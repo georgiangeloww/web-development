@@ -1,0 +1,19 @@
+/* упражнение за шрифтове */
+
+#first {
+    font-weight: bold;
+    font-style: italic;
+}
+
+#second {
+    text-decoration: underline;
+}
+
+#third {
+    text-transform: uppercase;
+    letter-spacing: 3px;
+}
+
+#first, #second, #third {
+    color: royalblue;
+}
